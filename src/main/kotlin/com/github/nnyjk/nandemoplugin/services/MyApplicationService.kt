@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nnyjk.nandemoplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nnyjk.nandemoplugin.MyBundle
 
 class MyApplicationService {
 
